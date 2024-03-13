@@ -1,11 +1,11 @@
 # LyraConveniencePlugin
 
-[Example image](Images/main.png)
+![Example image](Images/main.png)
 
-[Plugin folder](Images/plugins.png)
+![Plugin folder](Images/plugins.png)
 
-[Game features folder](Images/gamefeatures.png)
+![Game features folder](Images/gamefeatures.png)
 
-[Plugin directory](Images/addingplugin.png)
+![Plugin directory](Images/addingplugin.png)
 
-[Showing map](Images/showinggamemode.jpg)
+![Showing map](Images/showinggamemode.jpg)
